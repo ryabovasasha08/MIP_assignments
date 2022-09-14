@@ -6,6 +6,7 @@ This README is a slightly modified version of [*README (Mathematical Image Proce
 
 ---
 
+<br>
 
 This is the homework repository of Mathematical Image Processing in winter term 2022 / 2023. Theoretical problems and coding assignments will be uploaded weekly to this repository. In this course, we will use *Matlab* and *Octave* (see Task 1 + 2 of [Tutorial](https://writemd.rz.tuhh.de/ohfOWSleRbmCFNfWs0QHLw)).
 
