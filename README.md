@@ -1,14 +1,9 @@
 # Mathematical Image Processing Homework WT 2022
 
-:::danger
-This README is a slightly modified version of
-<br>
-<center> <a href="https://collaborating.tuhh.de/e-10/teaching/mathematical-image-processing/mathimproc-wt2021/-/blob/master/README.md">README (Mathematical Image Processing Winter Term Homework WT2021)</a></center>
-<br>
+---
+This README is a slightly modified version of [README (Mathematical Image Processing Winter Term Homework WT2021)](https://collaborating.tuhh.de/e-10/teaching/mathematical-image-processing/mathimproc-wt2021/-/blob/master/README.md) by [*Fabian Gabel*](https://math.fabian-gabel.de) which is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+---
 
-by [*Fabian Gabel*](https://math.fabian-gabel.de) which is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-:::
 
 This is the homework repository of Mathematical Image Processing in winter term 2022 / 2023. Theoretical problems and coding assignments will be uploaded weekly to this repository. In this course, we will use *Matlab* and *Octave* (see Task 1 + 2 of [Tutorial](https://writemd.rz.tuhh.de/ohfOWSleRbmCFNfWs0QHLw)).
 
