@@ -4,7 +4,7 @@ This is the homework repository of Mathematical Image Processing in winter term 
 
 ## General information
 
-Theoretical problems will be uploaded as a .pdf-file. For each coding assignment, we will provide a template for your solution. Additonally, we will provide a test file where you can test your code. Note that passing all the tests does not mean that your implementation is correct.
+Theoretical and coding problems will be uploaded as a .pdf-file. For each coding assignment, we will provide a template for your solution. Additonally, we will provide a test file where you can test your code. Note that passing all the tests does not mean that your implementation is correct.
 
 ## Set up your Copy of this Repository
 
