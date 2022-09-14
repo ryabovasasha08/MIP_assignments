@@ -1,7 +1,9 @@
 # Mathematical Image Processing Homework WT 2022
 
 ---
-This README is a slightly modified version of [README (Mathematical Image Processing Winter Term Homework WT2021)](https://collaborating.tuhh.de/e-10/teaching/mathematical-image-processing/mathimproc-wt2021/-/blob/master/README.md) by [*Fabian Gabel*](https://math.fabian-gabel.de) which is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+This README is a slightly modified version of [*README (Mathematical Image Processing Winter Term Homework WT2021)*](https://collaborating.tuhh.de/e-10/teaching/mathematical-image-processing/mathimproc-wt2021/-/blob/master/README.md) by [*Fabian Gabel*](https://math.fabian-gabel.de) which is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
 ---
 
 
