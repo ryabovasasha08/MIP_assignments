@@ -71,7 +71,7 @@ counter = counter + 1;
 try
 
   [B] = rotateImg(A, pi/4, 'bilinear');
-  [C] = imrotate(A, 45, 'linear', 'crop');
+  [C] = imrotate(A, 45, 'bilinear', 'crop');
 
   test(counter) = norm(im2double(B - C), 'inf') < 5;
 
