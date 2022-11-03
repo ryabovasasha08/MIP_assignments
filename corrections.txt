@@ -1,0 +1,22 @@
+Group 2
+
+Task 1: passed
+ a: correct
+ b: correct
+ c: mostly correct (your interpolation function does not work as it is not equal to 0 for every integer different from 0 -> for x = 2 it is equal to -1)
+ d: correct
+
+Task 2: passed
+ correct 
+ Eye test looks incorrect, there seems to be a small mistake in your code for the blinear method. 
+ If you turn ratio*(...+...) into ratio*(...) + ratio*(....) in lines 27 and 32, the error is gone.
+ This seems to be a numerical error of the computation.
+
+Task 3: not passed
+ Bilinear method is missing
+ Mistake with Rotation center, should be (m+1)/2 and (n+1)/2
+
+If you have problems finding a bug, you can contact us.
+
+In Total:
+ 2/3
