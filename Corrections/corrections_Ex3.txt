@@ -1,0 +1,17 @@
+Group 2
+
+Task 1: passed
+ calcHistogram: correct
+ enhConstrast: correct
+ 
+
+Task 2: passed
+ a: correct 
+ b: correct
+ c: correct
+
+Task 3: passed
+ correct
+
+In Total:
+ 3/3
