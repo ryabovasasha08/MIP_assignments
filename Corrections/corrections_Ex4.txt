@@ -1,0 +1,27 @@
+Group 2
+
+Task 1: not passed
+ a1: not correct 
+     - very confusing with two variables named x
+     - a few implications are wrong (e.g. if x + b is in A it does not follow in general that x is in A for every b in B)
+     - final implication not clear
+ a2: not correct (similar to a1)
+ b1: mostly correct
+ b2: mostly correct
+ -> could be more precise regarding the A_1 as a subset of A_2
+ b3: correct
+ b4: not correct: complements for closing/openings not shown
+
+-> We could see that you tried for this task, but unfortunately this was not enough for a pass
+ 
+
+Task 2: passed
+ mostly correct -> only small mistake: order of output vector is wrong
+
+Task 3: not passed
+ a: not correct -> x_k^(0) does not equal 0 for all k in {2,...,L+M} -> Tip: You should have shown which parts of the sum become 0 if n < 2 or n > L+M
+ b: partly correct, very short (recall to Task 3a could be helpful
+ c: not correct -> only shown for special case
+
+In Total:
+ 1/3
