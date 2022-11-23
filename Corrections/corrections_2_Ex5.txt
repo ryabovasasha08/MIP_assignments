@@ -1,0 +1,17 @@
+Group 2
+
+Task 1: not passed
+ a: it is not clear what is meant with taking the Fourier transform of eq 1 and integrating eq 2, there a steps missing in between
+ b: several errors: the i is missing after a few calculations, it is not clear from where the w appears again in the end
+ c: not correct -> same errors as in b
+ 
+Task 2: not passed
+ a: not correct
+ b: not there
+ c: not there
+
+Task 3: passed
+ correct -> but very slow -> you could have used the matlab functions fft and ifft
+
+In Total:
+ 1/3
