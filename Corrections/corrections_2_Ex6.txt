@@ -1,0 +1,22 @@
+Group 2
+
+Task 1: not passed
+ a: correct
+ b: not there
+ c: not there
+
+Task 2: not passed
+ not there
+
+Task 3: passed
+ a: correct
+ b: mostly correct, small errors with transformations (pull g out)
+ c: correct
+ d: not there
+
+Task 4: passed
+ correct
+
+
+In Total:
+ 2/3
