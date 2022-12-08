@@ -1,0 +1,17 @@
+Group 2
+
+Task 1: not passed
+ a: correct
+ b1: errors with the derivatives
+ b2: follows directly from a, you did not have to show something else
+ b3: errors with the derivatives
+
+Task 2: not passed
+ not there
+
+Task 3: not passed
+not there
+
+In Total:
+ 0/3
+
