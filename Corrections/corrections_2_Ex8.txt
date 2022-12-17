@@ -1,0 +1,21 @@
+Group 2
+
+Task 1: passed
+ correct
+
+Task 2:
+ computation of angles is wrong (atan is needed) 
+ switch in lines 42-49 seems wrong, looks like edges in wrong direction
+ Line 76: you need candidates instead of A
+ Line 82: cc_indexes(index) instead of index
+
+Task 3: passed
+ a: correct
+ b: The explanation for why you can compute the eigenvalues is missing
+
+Task 4: not passed
+ not there 
+
+In Total:
+ 3/3
+
