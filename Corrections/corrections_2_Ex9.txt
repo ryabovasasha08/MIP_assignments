@@ -1,0 +1,19 @@
+Group 2
+
+Task 1: passed
+ correct
+
+Task 2: passed
+ correct
+
+Task 3: not passed
+ a: mostly correct, indeces are missing and injectivity explanation is wrong
+ b: not shown that A is bounded
+ c: not there
+
+Task 4: passed
+ correct
+
+In Total:
+ 3/3
+
