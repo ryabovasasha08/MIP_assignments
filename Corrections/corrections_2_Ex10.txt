@@ -1,0 +1,18 @@
+Group 2
+
+Task 1: passed
+ correct
+
+Task 2:  passed
+ a: correct
+ b: correct, could be a little bit more precise
+
+Task 3: passed
+ correct
+
+Task 4: not passed
+ beginning seems correct -> you could have shown that you get a sum of exponential functions, which do not become negative
+
+In Total:
+ 3/3
+
