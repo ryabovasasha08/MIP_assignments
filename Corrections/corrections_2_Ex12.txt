@@ -1,0 +1,20 @@
+Group 2
+
+Task 1: passed
+ mostly correct, errors in the derivatives
+
+Task 2:  passed
+ correct
+
+Task 3: passed
+ partly correct -> in b) the gradient notation is wrong
+
+Task 4: not passed
+ not correct
+ a) not generally shown -> better to prove by induction
+ b) the first equations are wrong
+
+
+In Total:
+ 3/3
+
