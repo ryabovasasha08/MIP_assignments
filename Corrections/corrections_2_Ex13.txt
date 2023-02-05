@@ -6,8 +6,8 @@ Task 1: passed
 Task 2:  not passed
  not there
 
-Task 3: not passed
- not there  
+Task 3: passed
+ correctt 
 
 In Total:
  1/3
